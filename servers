@@ -1,0 +1,10 @@
+{
+    "servers":{
+      "KrakenHCF Network":{
+        "address":"krakenhcf.com"
+},	
+      "Certix Network":{	
+        "address":"certix.cc"
+        }
+    }
+}
